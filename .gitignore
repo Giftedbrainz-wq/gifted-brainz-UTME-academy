@@ -1,0 +1,4 @@
+node_modules/
+.netlify/
+deno.lock
+.DS_Store
